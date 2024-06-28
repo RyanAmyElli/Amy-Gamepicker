@@ -77,37 +77,7 @@ const games = [
 76. VOID
 77. Wormy 🪱
 78. 3008 🚜
-79. Nanny
-80. The Haunted Imperial Hotel
-81. Nico's Nextbots
-82. Elmira
-83. The Mimic
-84. Doors
-85. It
-86. Murder Mystery 2
-87. Flee the Facility
-88. Evade
-89. Rainbow Friends
-90. Camp Woodland
-91. The Carnival of Horrors
-92. The Creepy House
-93. The Dark Side
-94. The Forgotten Facility
-95. The Haunted Carnival
-96. The Lost Ones
-97. Ghost Hunt
-98. Apocalypse Rising
-99. Natural Disaster Survival
-100. Survive the Killer!
-101.Dress to Impress
-102.carry a friend
-103.be a duck
-104.office experience
-105.neighbors
-106.mic up
-107.Impostor
-108.horrific housing 
-109.work at a pizza place
+
 ];
 
 const pickGameBtn = document.getElementById("pick-game-btn");
